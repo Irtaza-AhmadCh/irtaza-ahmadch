@@ -2,30 +2,41 @@
 <rect width="800" height="500" fill="#0a0a0a"/>
 <rect x="0.5" y="0.5" width="799" height="499" fill="none" stroke="#262626"/>
 <text x="24" y="30" fill="#7a7a7a">TELEMETRY / source: github api</text>
-<text x="776" y="30" fill="#7a7a7a" text-anchor="end">SYNC PENDING</text>
+<text x="776" y="30" fill="#7a7a7a" text-anchor="end">SYNC 2026-10-04</text>
 <line x1="24" y1="44" x2="776" y2="44" stroke="#262626"/>
 <text x="24" y="78" fill="#7a7a7a" font-size="10">REPOSITORIES</text>
-<text x="24" y="106" fill="#d4d4d4" font-size="26" font-weight="bold">0</text>
+<text x="24" y="106" fill="#d4d4d4" font-size="26" font-weight="bold">17</text>
 <text x="276" y="78" fill="#7a7a7a" font-size="10">COMMITS</text>
-<text x="276" y="106" fill="#d4d4d4" font-size="26" font-weight="bold">0</text>
+<text x="276" y="106" fill="#d4d4d4" font-size="26" font-weight="bold">30</text>
 <text x="528" y="78" fill="#7a7a7a" font-size="10">CONTRIBUTIONS</text>
-<text x="528" y="106" fill="#d4d4d4" font-size="26" font-weight="bold">0</text>
+<text x="528" y="106" fill="#d4d4d4" font-size="26" font-weight="bold">48</text>
 <text x="24" y="142" fill="#7a7a7a" font-size="10">LINES OF CODE (EST.)</text>
-<text x="24" y="170" fill="#d4d4d4" font-size="26" font-weight="bold">0</text>
+<text x="24" y="170" fill="#d4d4d4" font-size="26" font-weight="bold">57.8K</text>
 <text x="276" y="142" fill="#7a7a7a" font-size="10">LANGUAGES</text>
-<text x="276" y="170" fill="#d4d4d4" font-size="26" font-weight="bold">0</text>
+<text x="276" y="170" fill="#d4d4d4" font-size="26" font-weight="bold">13</text>
 <text x="528" y="142" fill="#7a7a7a" font-size="10">STARS</text>
-<text x="528" y="170" fill="#d4d4d4" font-size="26" font-weight="bold">0</text>
+<text x="528" y="170" fill="#d4d4d4" font-size="26" font-weight="bold">2</text>
 <line x1="24" y1="206" x2="776" y2="206" stroke="#262626"/>
 <text x="24" y="230" fill="#7a7a7a" font-size="10">LANGUAGE DISTRIBUTION</text>
-<text x="24" y="255" fill="#d4d4d4">awaiting first sync</text>
-<rect x="150" y="244" width="420" height="12" fill="#7ee787"/>
-<text x="578" y="255" fill="#7a7a7a">100%</text>
+<text x="24" y="255" fill="#d4d4d4">Dart</text>
+<rect x="150" y="244" width="268" height="12" fill="#7ee787"/>
+<text x="426" y="255" fill="#7a7a7a">64%</text>
+<text x="24" y="277" fill="#d4d4d4">C++</text>
+<rect x="150" y="266" width="89" height="12" fill="#8b8b8b"/>
+<text x="247" y="277" fill="#7a7a7a">21%</text>
+<text x="24" y="299" fill="#d4d4d4">HTML</text>
+<rect x="150" y="288" width="37" height="12" fill="#8b8b8b"/>
+<text x="195" y="299" fill="#7a7a7a">9%</text>
+<text x="24" y="321" fill="#d4d4d4">Python</text>
+<rect x="150" y="310" width="27" height="12" fill="#8b8b8b"/>
+<text x="185" y="321" fill="#7a7a7a">6%</text>
 <line x1="24" y1="342" x2="776" y2="342" stroke="#262626"/>
 <text x="24" y="366" fill="#7a7a7a" font-size="10">COMMIT VELOCITY</text>
 <line x1="24" y1="440" x2="388" y2="440" stroke="#262626"/>
+<polyline points="24.0,436.0 57.1,436.0 90.2,380.0 123.3,398.7 156.4,404.9 189.5,436.0 222.5,436.0 255.6,411.1 288.7,436.0 321.8,436.0 354.9,436.0 388.0,404.9" fill="none" stroke="#7ee787" stroke-width="1.5"/>
 <text x="24" y="460" fill="#7a7a7a" font-size="10">contributions / month, last 12 mo</text>
 <text x="412" y="366" fill="#7a7a7a" font-size="10">REPOSITORY GROWTH</text>
 <line x1="412" y1="440" x2="776" y2="440" stroke="#262626"/>
+<polyline points="412.0,436.0 425.5,432.3 439.0,428.5 452.4,428.5 465.9,428.5 479.4,428.5 492.9,424.8 506.4,424.8 519.9,424.8 533.3,424.8 546.8,424.8 560.3,424.8 573.8,417.3 587.3,409.9 600.7,409.9 614.2,409.9 627.7,409.9 641.2,409.9 654.7,398.7 668.1,398.7 681.6,391.2 695.1,391.2 708.6,391.2 722.1,383.7 735.6,383.7 749.0,383.7 762.5,383.7 776.0,380.0" fill="none" stroke="#7ee787" stroke-width="1.5"/>
 <text x="412" y="460" fill="#7a7a7a" font-size="10">cumulative repositories</text>
 </svg>
