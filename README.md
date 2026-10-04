@@ -29,7 +29,7 @@ CLIENT / PRODUCT DEVELOPMENT
   Booking · Real-time features · Admin systems · API integrations
 
 AUTOMATION / BACKEND
-  FastAPI · PostgreSQL · GoHighLevel · API automation · Load testing
+  FastAPI · PostgreSQL · GoHighLevel · API automation 
 ```
 
 ```
@@ -39,11 +39,7 @@ AUTOMATION / BACKEND
     Flutter · Firebase · Stripe
     Booking / Authentication / Admin
 
-02  RIDE PLATFORM
-    Flutter · Backend APIs · PostgreSQL
-    Maps / Tracking / Payments
-
-03  RIDING PLATFORM
+02  RIDING PLATFORM
     GPS · Ride History · Group Rides
     Motorcycle analytics / community
 ```
@@ -58,17 +54,17 @@ AUTOMATION / BACKEND
 06 / BOOKS
 ────────────────────────────────────────────────────────────
 CURRENTLY READING
-> ...
+> DDIA
 
 RECENT
-> ...
-> ...
+> software engineering a practitioner's approach
+
 ```
 
 ```
 07 / CONTACT
 ────────────────────────────────────────────────────────────
-GITHUB    →  github.com/<username>
-LINKEDIN  →  linkedin.com/in/<username>
-EMAIL     →  <email>
+GITHUB    →  github.com/irtaza-ahmadch
+LINKEDIN  →  linkedin.com/in/irtaza-ahmad-a345a12a3/
+EMAIL     →  irtazaahmadch18@gmail.com
 ```
